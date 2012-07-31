@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blackcolor" >
+    <response list="true">
+    <count>125</count>
+     <post>
+     <id>219</id>
+     <from_id>100172</from_id>
+     <to_id>100172</to_id>
+     <date>1286702921</date>
+     <text>4 года ВКонтакте и мгновенный поиск</text>
+     <attachments list="true">
+     <attachment>
+     <type>link</type>
+     <link>
+     <url>http://vkontakte.ru/blog.php?nid=152</url>
+     <title>4 года ВКонтакте и мгновенный поиск</title>
+ <description/>
+ </link>
+ </attachment>
+ </attachments>
+ <comments>
+ <count>0</count>
+ </comments>
+ <likes>
+ <count>0</count>
+ </likes>
+ <reposts>
+ <count>0</count>
+ </reposts>
+ </post>
+<post>
+ <id>216</id>
+ <from_id>100172</from_id>
+ <to_id>100172</to_id>
+ <date>1286540347</date>
+ <text>Команда «Тепло!» дошла не до всех - Новости Санкт-Петербурга - Фонтанка.Ру</text>
+ <attachments list="true">
+ <attachment>
+ <type>link</type>
+ <link>
+ <url>http://www.fontanka.ru/2010/10/08/108/</url>
+ <title>Команда «Тепло!» дошла не до всех - Новости Санкт-Петербурга - Фонтанка.Ру</title>
+ <description>Фонтанка.Ру: Команда «Тепло!» дошла не до всех</description>
+ </link>
+ </attachment>
+ </attachments>
+ <comments>
+ <count>0</count>
+ </comments>
+ <likes>
+ <count>1</count>
+ </likes>
+ <reposts>
+ <count>0</count>
+ </reposts>
+ </post>
+<post>
+ <id>205</id>
+ <from_id>100172</from_id>
+ <to_id>100172</to_id>
+ <date>1285743447</date>
+ <comments>
+ <count>0</count>
+ </comments>
+ <likes>
+ <count>0</count>
+ </likes>
+ <reposts>
+ <count>0</count>
+ </reposts>
+ </post>
+</response>
+</RelativeLayout>

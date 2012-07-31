@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VKidget</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">VKidget</string>
+    <string name="choose_preferences">Выберите настройки</string>
+    <string name="pref_1"> Включить оповещения</string>
+    <string name="pref_2"> Отображать записи других пользователей</string>
+    <string name="pref_3"> Интервал автообновления</string>
+    <string name="Button"> Авторизация </string>
+    <string name="auth_title">VKidget - Авторизация</string>
+    <string name="enter_login"> Введите логин: </string>
+    <string name="enter_pass"> Введите пароль: </string>
+    <color name="whitecolor">#FFF</color>
+    <color name="blackcolor">#000</color>
+    
+    
+    
+</resources>
